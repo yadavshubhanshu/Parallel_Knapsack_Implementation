@@ -1,3 +1,6 @@
+An implementation of knapsack problem parallelized using the X10 language.
+
+
 -----------------------------------------------
 FOLDER CONTENT
 -----------------------------------------------
