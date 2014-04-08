@@ -1,4 +1,7 @@
-An implementation of knapsack problem parallelized using the X10 language.
+The goal of this project was to implement a parallel multiplace 0/1 Knapsack algorithm and compare it with a sequential dynamic
+programming algorithm and a single place multithreaded dynamic programming implementation. All the algorithms were
+programmed in X10 and then tested with large data sets. The results gathered were used for analysis and comparison of the
+three implementations and drawing conclusions concerning the performance of the three implementations.
 
 
 -----------------------------------------------
